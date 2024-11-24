@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/Candydev0/lottery_software_package/releases/download/1.0.4/lottery-app-linux-x86_64-1.0.4.AppImage",
-    "install": "https://github.com/Candydev0/lottery_software_package/releases/download/1.0.4/lottery-app-linux-x86_64-1.0.4.AppImage",
-    "version": "1.0.4",
-    "sha256": "2bfcaaed7959f8ea005b525c47fa2a0695524aa397650a0225640fd69d972665"
+    "update": "https://github.com/Candydev0/lottery_software_package/releases/download/1.0.41/lottery-app-linux-x86_64-1.0.41.AppImage",
+    "install": "https://github.com/Candydev0/lottery_software_package/releases/download/1.0.41/lottery-app-linux-x86_64-1.0.41.AppImage",
+    "version": "1.0.41",
+    "sha256": "abc93234391ac17e03e99e7491ed887a0b5805093530de18fafecccb0c3d13ed"
   }
 }
